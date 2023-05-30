@@ -3,9 +3,11 @@
 A simple datapack which adds better ender pearls
 
 ## Features
+* Instant Teleportation
+* Teleport where you look
+* 5 Different Levels of Ender Pearls
 * Survival Friendly
 * Multiplayer Friendly
-* 5 Different Levels of Ender Pearls
 
 ## Documentation
 * [AdvancedButton.h](https://github.com/TechnoBro03/AdvancedButton/tree/main/src/AdvancedButton.h)
@@ -17,3 +19,7 @@ A simple datapack which adds better ender pearls
 * Open the folder named datapacks, and put the data pack into it. It should be a .zip file or directory.
 * Type /reload if you are in the world during the installation.
 * The pack should now be enabled in the world and you should see an in-game message.
+
+## Update Log
+### Version 1.0
+* 5 Fancy Ender Pearls added
