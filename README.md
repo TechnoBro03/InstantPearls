@@ -9,8 +9,13 @@ A simple datapack which adds better ender pearls
 * Survival Friendly
 * Multiplayer Friendly
 
-## Documentation
-* [AdvancedButton.h](https://github.com/TechnoBro03/AdvancedButton/tree/main/src/AdvancedButton.h)
+## Crafting Recipes
+### All recipes are shapeless
+* Fancy Pearl I - 3 Iron blocks, 1 enderpearl
+* Fancy Pearl II - 3 Gold blocks, 1 enderpearl
+* Fancy Pearl III - 3 Diamond blocks, 1 enderpearl
+* Fancy Pearl IV - 3 Netherite blocks, 1 enderpearl
+* Fancy Pearl V - 6 Netherite blocks, 1 enderpearl
 
 ## Installation
 * Click ![Code](https://i.ibb.co/2tTwMyX/Code.png) -> ![Download Zip](https://i.ibb.co/Kxyb6mh/download.png)
