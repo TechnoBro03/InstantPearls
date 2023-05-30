@@ -18,7 +18,7 @@ A simple datapack which adds better ender pearls
 * Fancy Pearl V - 6 Netherite blocks, 1 enderpearl
 
 ## Installation
-* Click "Code" -> "Download .zip"
+* Click "Code" -> "Download ZIP"
 * Open Minecraft.
 * Select the world you want to install the data pack for, click on "Edit", then "Open world folder".
 * Open the folder named datapacks, and put the data pack into it. It should be a .zip file or directory.
