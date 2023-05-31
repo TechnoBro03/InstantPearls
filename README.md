@@ -25,6 +25,4 @@ A simple datapack which adds better ender pearls
 * Type /reload if you are in the world during the installation.
 * The pack should now be enabled in the world and you should see an in-game message.
 
-## Update Log
-### Version 1.0
-* 5 Fancy Ender Pearls added
+## [Releases](https://github.com/TechnoBro03/BetterEnderPearls/releases)
