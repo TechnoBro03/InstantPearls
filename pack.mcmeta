@@ -1,6 +1,6 @@
 {
     "pack" : {
         "pack_format" : 12,
-        "description" : "A simple datapack that uses efficient ray casting to tp player"
+        "description" : "A simple datapack that adds better ender pearls."
     }
 }
