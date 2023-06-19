@@ -1,5 +1,5 @@
 # Better Pearls
-A simple datapack which adds better ender pearls
+A simple datapack that adds better ender pearls
 
 ## Features
 * Instant Teleportation
