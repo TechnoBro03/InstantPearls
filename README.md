@@ -1,4 +1,4 @@
-# Better Ender Pearls
+# Better Pearls
 ### For Minecraft 1.19.4
 A simple datapack which adds better ender pearls
 
