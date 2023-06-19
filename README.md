@@ -1,5 +1,4 @@
 # Better Pearls
-### For Minecraft 1.19.4
 A simple datapack which adds better ender pearls
 
 ## Features
@@ -25,4 +24,4 @@ A simple datapack which adds better ender pearls
 * Type /reload if you are in the world during the installation.
 * The pack should now be enabled in the world and you should see an in-game message.
 
-## [Releases](https://github.com/TechnoBro03/BetterEnderPearls/releases)
+## [Releases](https://github.com/TechnoBro03/BetterPearls/releases)
