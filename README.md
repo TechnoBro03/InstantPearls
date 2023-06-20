@@ -1,20 +1,19 @@
 # Better Pearls
-A simple datapack that adds better ender pearls
+A Minecraft datapack that adds better ender pearls.
 
 ## Features
-* Instant Teleportation
-* Teleport where you look
-* 5 Different Levels of Ender Pearls
-* Survival Friendly
-* Multiplayer Friendly
+* Instant Teleportation.
+* 5 Different Levels of Ender Pearls.
+* Survival Friendly.
+* Multiplayer Friendly.
 
 ## Crafting Recipes
 ### All recipes are shapeless
-* Fancy Pearl I - 3 Iron blocks, 1 enderpearl
-* Fancy Pearl II - 3 Gold blocks, 1 enderpearl
-* Fancy Pearl III - 3 Diamond blocks, 1 enderpearl
-* Fancy Pearl IV - 3 Netherite blocks, 1 enderpearl
-* Fancy Pearl V - 6 Netherite blocks, 1 enderpearl
+* Fancy Pearl I - 3 Iron blocks, 1 enderpearl.
+* Fancy Pearl II - 3 Gold blocks, 1 enderpearl.
+* Fancy Pearl III - 3 Diamond blocks, 1 enderpearl.
+* Fancy Pearl IV - 3 Netherite blocks, 1 enderpearl.
+* Fancy Pearl V - 6 Netherite blocks, 1 enderpearl.
 
 ## Installation
 * Click "Code" -> "Download ZIP".
