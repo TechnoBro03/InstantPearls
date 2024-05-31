@@ -3,7 +3,8 @@ A Minecraft datapack that adds instant teleportation pearls.
 
 ## Features
 * Instant Teleportation.
-* 5 Different Levels of Ender Pearls.
+* 5 Different Levels of Instant Pearls.
+* Recipes unlocked and viewable in Recipe Book after getting enderpearl.
 * Survival Friendly.
 * Multiplayer Friendly.
 
