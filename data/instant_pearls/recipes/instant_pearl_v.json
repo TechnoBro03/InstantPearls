@@ -1,0 +1,40 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "group": "instant_pearl",
+    "ingredients": [
+    {
+        "item": "minecraft:netherite_block"
+        },
+        {
+        "item": "minecraft:netherite_block"
+        },
+        {
+        "item": "minecraft:netherite_block"
+        },
+        {
+        "item": "minecraft:netherite_block"
+        },
+        {
+        "item": "minecraft:netherite_block"
+        },
+        {
+        "item": "minecraft:netherite_block"
+        },
+        {
+        "item": "minecraft:ender_pearl"
+        }
+    ],
+    "result": {
+      "id": "minecraft:ender_pearl",
+      "components": {
+        "minecraft:custom_name": "{\"text\":\"Instant Pearl V\",\"color\":\"dark_purple\",\"italic\":false}",
+        "minecraft:item_name": "{\"text\":\"Instant Pearl V\",\"color\":\"dark_purple\",\"italic\":false}",
+        "minecraft:custom_data": {"distance":512},
+        "minecraft:lore": [
+          "{\"text\":\"256 Blocks\"}"
+        ]
+      }
+    }
+  }
+  
