@@ -2,7 +2,7 @@
 # scoreboard players operation @s instant_pearls.step = .max instant_pearls.step
 
 # Give player cast tag
-# tag @s add instant_pearls.cast
+tag @s add instant_pearls.cast
 
 # Run at_start
 execute at @s anchored eyes positioned ^ ^ ^ run function instant_pearls:custom/at_start
@@ -12,4 +12,4 @@ execute at @s anchored eyes positioned ^ ^ ^ run function instant_pearls:interna
 
 # Remove all tags
 tag @s remove instant_pearls.stop
-# tag @s remove instant_pearls.cast
+tag @s remove instant_pearls.cast
