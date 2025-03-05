@@ -5,11 +5,11 @@
       "conditions": {
         "items": [
           {
-            "items": "minecraft:ender_pearl",
+            "items": ["minecraft:ender_pearl"],
             "predicates": {
               "minecraft:enchantments": [
                 {
-                  "enchantments": "instant_pearls:tp",
+                  "enchantments": ["instant_pearls:tp"],
                   "levels": 3
                 }
               ]
