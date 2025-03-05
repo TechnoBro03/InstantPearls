@@ -1,0 +1,27 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:ender_pearl",
+            "predicates": {
+              "minecraft:enchantments": [
+                {
+                  "enchantments": "instant_pearls:tp",
+                  "levels": 2
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "instant_pearls:instant_pearl_iii"
+    ]
+  }
+}

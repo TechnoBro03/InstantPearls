@@ -1,40 +1,38 @@
 {
-    "type": "minecraft:crafting_shapeless",
-    "category": "misc",
-    "group": "instant_pearl",
-    "ingredients": [
-    {
-        "item": "minecraft:netherite_block"
+  "type": "minecraft:crafting_shaped",
+  "group": "instant_pearl",
+  "category": "misc",
+  "pattern": [
+    "XXX",
+    "XOX",
+    "XXX"
+  ],
+  "key": {
+    "X": "minecraft:netherite_block",
+    "O": "minecraft:ender_pearl"
+  },
+  "result": {
+    "id": "minecraft:ender_pearl",
+    "components": {
+      "minecraft:custom_name": "{\"text\":\"Instant Pearl V\", \"italic\":false}",
+      "minecraft:item_name": "{\"text\":\"Instant Pearl V\"}",
+      "minecraft:rarity": "epic",
+      "minecraft:custom_data": {
+        "distance": 256
+      },
+      "minecraft:use_cooldown": {
+        "seconds": 8,
+        "cooldown_group": "instant_pearl_v"
+      },
+      "minecraft:enchantment_glint_override": true,
+      "minecraft:enchantments": {
+        "levels": {
+          "instant_pearls:tp": 5
         },
-        {
-        "item": "minecraft:netherite_block"
-        },
-        {
-        "item": "minecraft:netherite_block"
-        },
-        {
-        "item": "minecraft:netherite_block"
-        },
-        {
-        "item": "minecraft:netherite_block"
-        },
-        {
-        "item": "minecraft:netherite_block"
-        },
-        {
-        "item": "minecraft:ender_pearl"
-        }
-    ],
-    "result": {
-      "id": "minecraft:ender_pearl",
-      "components": {
-        "minecraft:custom_name": "{\"text\":\"Instant Pearl V\",\"color\":\"dark_purple\",\"italic\":false}",
-        "minecraft:item_name": "{\"text\":\"Instant Pearl V\",\"color\":\"dark_purple\",\"italic\":false}",
-        "minecraft:custom_data": {"distance":512},
-        "minecraft:lore": [
-          "{\"text\":\"256 Blocks\"}"
-        ]
+        "show_in_tooltip": false
       }
-    }
-  }
-  
+    },
+    "count": 1
+  },
+  "show_notification": true
+}

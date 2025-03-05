@@ -3,4 +3,7 @@
 # Ray is already stopped
 
 # Teleport to block
-function instant_pearls:custom/at_block
+execute run tp @s ~ ~ ~
+
+particle portal ~ ~ ~ 0.5 .5 .5 0 50 force
+playsound entity.enderman.teleport player @a ~ ~ ~

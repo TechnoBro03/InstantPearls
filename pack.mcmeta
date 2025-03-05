@@ -1,7 +1,7 @@
 {
     "pack" : {
-        "pack_format" : 48,
-        "supported_formats" : [48,48],
+        "pack_format" : 61,
+        "supported_formats" : [61, 61],
         "description" : "A Minecraft datapack that adds instant pearls."
     }
 }
