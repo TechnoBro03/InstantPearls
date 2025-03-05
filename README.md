@@ -9,7 +9,7 @@ A Minecraft datapack that adds instant pearls.
 * Multiplayer Friendly.
 
 ## Crafting Recipes
-### Recipes appear in the recipe book. Each pearl is unlocked after the previous has been crafted.
+**Recipes appear in the recipe book. Each pearl is unlocked after the previous has been crafted.**
 * Instant Pearl I - 4 Iron blocks, 1 enderpearl.
 * Instant Pearl II - 4 Gold blocks, 1 enderpearl.
 * Instant Pearl III - 4 Diamond blocks, 1 enderpearl.
