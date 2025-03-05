@@ -9,7 +9,7 @@
             "predicates": {
               "minecraft:enchantments": [
                 {
-                  "enchantments": ["instant_pearls:tp"],
+                  "enchantment": "instant_pearls:tp",
                   "levels": 1
                 }
               ]
